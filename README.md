@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Deepa Gurusamy
-- 🌱 I’m currently working as a intern
+- 🌱 I’m currently working as a Software Engineer
 - 📫 Reach me at deepaguru2505@gmail.com
 
 <!---
